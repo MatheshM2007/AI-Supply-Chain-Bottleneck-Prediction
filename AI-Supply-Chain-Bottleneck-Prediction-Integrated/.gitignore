@@ -1,5 +1,0 @@
-.venv/
-__pycache__/
-*.pyc
-models/model_bundle.joblib
-.streamlit/secrets.toml
